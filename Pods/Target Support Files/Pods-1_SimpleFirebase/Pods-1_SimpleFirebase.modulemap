@@ -1,0 +1,6 @@
+framework module Pods_1_SimpleFirebase {
+  umbrella header "Pods-1_SimpleFirebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
